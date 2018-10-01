@@ -1,9 +1,0 @@
-Git Commands:
-
-git init
-git status
-git commit -am"work in progress"
-git push
-git pull
-git remote add origin "URL"
-git push origin master
